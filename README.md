@@ -52,7 +52,7 @@ The script will generate the following outputs: - Table showing the time taken f
 
 ### Graph
 
-![Number of Threads vs. Total Time](https://i.postimg.cc/XJJQ6bHj/Screenshot-2024-04-09-at-9-58-26-PM.png)
+![Number of Threads vs. Total Time](Result_Graph.png)
 
 The graph illustrates how the total time taken for matrix multiplication decreases as the number of threads increases due to parallelism.
 
